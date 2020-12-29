@@ -30,7 +30,7 @@ url: "https://kubeconlive.github.io" # the base hostname & protocol for your sit
 
 # Social (First three Required)
 repo: "https://github.com/kubeconlive/mkdocs-jekyll"
-github_user: "vsoch"
+github_user: "kubeconlive"
 github_repo: "mkdocs-jekyll"
 
 # Optional
